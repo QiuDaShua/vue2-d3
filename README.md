@@ -1,6 +1,8 @@
 # vue2-d3
 vue3 框架中使用vue2代码结合d3完成股权穿透图和股权结构图（h5）
+
 （没错听上去很违规，但我懒得把代码从vue2改成vue3了，所以是在vue3框架里用vue2写法完成的）
+
 贴上react版本链接：https://github.com/QiuDaShua/react-d3.git
 
 版本信息：
